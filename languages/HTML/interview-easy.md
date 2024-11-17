@@ -4,9 +4,9 @@
 ### Questions
 1. [What is the difference between HTML and HTML5?](#1-what-is-the-difference-between-html-and-html5)
 2. [How do you create a hyperlink in HTML?](#2-how-do-you-create-a-hyperlink-in-html)
-3. [What is the purpose of the `<alt>` attribute in the `<img>` tag?](#)
-4. [How do you include a comment in HTML?](#)
-5. [What are Non-Semantic & Semantic tags in HTML?](#)
+3. [What is the purpose of the `<alt>` attribute in the `<img>` tag?](#3-what-is-the-purpose-of-the-alt-attribute-in-the-img-tag)
+4. [How do you include a comment in HTML?](#4-how-do-you-include-a-comment-in-html)
+5. [What are Non-Semantic & Semantic tags in HTML?](#5-what-are-non-semantic--semantic-tags-in-html)
 
 ---
 
