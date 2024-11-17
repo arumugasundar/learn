@@ -7,6 +7,11 @@
 3. [How to optimize HTML for SEO (Search Engine Optimization)?](#3-how-to-optimize-html-for-seo-search-engine-optimization)
 4. [What is the purpose of the `<template>` tag, and how can it be used?](#4-what-is-the-purpose-of-the-template-tag-and-how-can-it-be-used)
 5. [Explain the difference between server-side rendering (SSR) and client-side rendering (CSR) with respect to HTML?](#5-explain-the-difference-between-server-side-rendering-ssr-and-client-side-rendering-csr-with-respect-to-html)
+6. [How do you create a responsive image using HTML?](#)
+7. [How do you structure a webpage using semantic HTML?](#)
+8. [How do you create a modal popup using HTML?](#)
+9. [How do you use the `<details>` and `<summary>` elements?](#)
+10. [How do you create a custom data attribute and use it in JavaScript?](#)
 
 ---
 
@@ -118,4 +123,63 @@
  ```
 #### 5. Explain the difference between server-side rendering (SSR) and client-side rendering (CSR) with respect to HTML?
  - **Server-side rendering (SSR)** - The server generates the entire HTML content for a page and sends it to the browser. This is better for SEO-dependent websites with static content. 
- - **Client-side rendering (CSR)** - The browser receives a minimal HTML file and uses JavaScript to render the content dynamically. This is better for web applications that require fast user interactions. 
+ - **Client-side rendering (CSR)** - The browser receives a minimal HTML file and uses JavaScript to render the content dynamically. This is better for web applications that require fast user interactions.
+
+ #### 6. How do you create a responsive image using HTML?
+
+ ```code
+ <img src="image.jpg" style="max-width: 100%; height: auto;">
+ ```
+ #### 7. How do you structure a webpage using semantic HTML?
+
+ ```code
+ <header>
+    <h1>Website Title</h1>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="home">
+        <h2>Welcome</h2>
+        <p>This is the homepage.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Information about us.</p>
+    </section>
+</main>
+<footer>
+    <p>Copyright © 2024</p>
+</footer>
+ ```
+
+ #### 8. How do you create a modal popup using HTML?
+
+ ```code
+ <div id="modal" style="display: none; position: fixed; background: rgba(0,0,0,0.5);">
+    <div style="background: white; padding: 20px;">
+        <p>This is a modal.</p>
+        <button onclick="document.getElementById('modal').style.display='none'">Close</button>
+    </div>
+</div>
+<button onclick="document.getElementById('modal').style.display='block'">Open Modal</button>
+ ```
+
+ #### 9. How do you use the `<details>` and `<summary>` elements?
+
+ ```code
+ <details>
+    <summary>Click to expand</summary>
+    <p>This is the expanded content.</p>
+ </details>
+ ```
+
+ #### 10. How do you create a custom data attribute and use it in JavaScript?
+
+ ```code
+ <button data-user-id="12345" onclick="alert(this.dataset.userId)">Click Me</button>
+ ```

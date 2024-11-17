@@ -7,6 +7,11 @@
 3. [How can you embed audio and video in an HTML document?](#3-how-can-you-embed-audio-and-video-in-an-html-document)
 4. [Explain the difference between id, name and class attributes in HTML?](#4-difference-between-id-name-and-class-attributes-in-html)
 5. [What are data attributes, and how can they be used in HTML?](#5-what-are-data-attributes-and-how-can-they-be-used-in-html)
+6. [How do you create a table with headers and rows?](#)
+7. [How do you use the `<video>` element to embed a video?](#)
+8. [How do you create a drop-down list in a form?](#)
+9. [How can you include a favicon in an HTML document?](#)
+10. [How do you use the `<progress>` element to show progress?](#)
 
 ---
 
@@ -65,3 +70,60 @@
  - Custom attributes that store additional information about HTML elements
  - Used to store data that is associated with a particular element but doesn't have a defined meaning
  - Store extra information, Improve user experience and Communicate with CSS and JavaScript
+
+ #### 6. How do you create a table with headers and rows?
+
+ ```code
+ <table border="1">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>John</td>
+            <td>30</td>
+        </tr>
+        <tr>
+            <td>Jane</td>
+            <td>25</td>
+        </tr>
+    </tbody>
+ </table>
+ ```
+
+ #### 7. How do you use the `<video>` element to embed a video?
+
+ ```code
+ <video controls width="400">
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+ </video>
+ ```
+
+ #### 8. How do you create a drop-down list in a form?
+
+ ```code
+ <form>
+    <label for="fruits">Choose a fruit:</label>
+    <select id="fruits" name="fruits">
+        <option value="apple">Apple</option>
+        <option value="banana">Banana</option>
+        <option value="orange">Orange</option>
+    </select>
+ </form>
+ ```
+
+ #### 9. How can you include a favicon in an HTML document?
+
+ ```code
+ <link rel="icon" href="favicon.ico" type="image/x-icon">
+ ```
+
+ #### 10. How do you use the `<progress>` element to show progress?
+
+ ```code
+ <progress value="50" max="100"></progress>
+ ```

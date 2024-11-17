@@ -7,6 +7,11 @@
 3. [What is the purpose of the `<alt>` attribute in the `<img>` tag?](#3-what-is-the-purpose-of-the-alt-attribute-in-the-img-tag)
 4. [How do you include a comment in HTML?](#4-how-do-you-include-a-comment-in-html)
 5. [What are Non-Semantic & Semantic tags in HTML?](#5-what-are-non-semantic--semantic-tags-in-html)
+6. [How do you create an ordered and unordered list in HTML?](#)
+7. [How can you display an image in HTML?](#)
+8. [How do you create a form with text input and a submit button?](#)
+9. [How do you make text bold or italic in HTML?](#)
+10. [How do you create a hyperlink that opens in a new tab?](#)
 
 ---
 
@@ -110,5 +115,44 @@
 
       <p> The concert starts at <time datetime="20:00">20:00</time> and you'll be able to enjoy the band for at least <time datetime="PT2H30M">2h 30m</time>.</p>
    ```
- 
- 
+
+#### 6. How do you create an ordered and unordered list in HTML?
+
+```code
+<ol>
+    <li>First item</li>
+    <li>Second item</li>
+</ol>
+<ul>
+    <li>First item</li>
+    <li>Second item</li>
+</ul>
+```
+
+#### 7. How can you display an image in HTML?
+
+```code
+<img src="image.jpg" alt="Description of image" width="300" height="200">
+```
+
+#### 8. How do you create a form with text input and a submit button?
+
+```code
+<form action="/submit" method="post">
+    <input type="text" name="username" placeholder="Enter your name">
+    <button type="submit">Submit</button>
+</form>
+```
+
+#### 9. How do you make text bold or italic in HTML?
+
+```code
+<b>This text is bold</b>
+<i>This text is italic</i>
+```
+
+#### 10. How do you create a hyperlink that opens in a new tab?
+
+```code
+<a href="https://example.com" target="_blank">Visit Example</a>
+```
