@@ -2,8 +2,8 @@
 # Interview - Easy
 
 ### Questions
-1. [What is the difference between HTML and HTML5?](#what-is-the-difference-between-html-and-html5)
-2. [How do you create a hyperlink in HTML?](#how-do-you-create-a-hyperlink-in-html)
+1. [What is the difference between HTML and HTML5?](#1-what-is-the-difference-between-html-and-html5)
+2. [How do you create a hyperlink in HTML?](#2-how-do-you-create-a-hyperlink-in-html)
 
 ---
 
