@@ -2,11 +2,11 @@
 # Interview - Intermediate
 
 ### Questions
-1. [How does the `<canvas>` element work in HTML5?](#)
-2. [What is the difference between `<section>` and `<div>`?](#)
-3. [How can you embed audio and video in an HTML document?](#)
-4. [Explain the difference between id, name and class attributes in HTML?](#)
-5. [What are data attributes, and how can they be used in HTML?](#)
+1. [How does the `<canvas>` element work in HTML5?](#1-how-does-the-canvas-element-work-in-html5)
+2. [What is the difference between `<section>` and `<div>`?](#2-what-is-the-difference-between-section-and-div)
+3. [How can you embed audio and video in an HTML document?](#3-how-can-you-embed-audio-and-video-in-an-html-document)
+4. [Explain the difference between id, name and class attributes in HTML?](#4-difference-between-id-name-and-class-attributes-in-html)
+5. [What are data attributes, and how can they be used in HTML?](#5-what-are-data-attributes-and-how-can-they-be-used-in-html)
 
 ---
 

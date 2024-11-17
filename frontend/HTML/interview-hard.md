@@ -2,11 +2,11 @@
 # Interview - Hard
 
 ### Questions
-1. [How does the Document Object Model (DOM) relate to HTML?](#)
-2. [Explain the concept of accessibility in HTML. How to ensure a webpage is accessible?](#)
-3. [How to optimize HTML for SEO (Search Engine Optimization)?](#)
-4. [What is the purpose of the `<template>` tag, and how can it be used?](#)
-5. [Explain the difference between server-side rendering (SSR) and client-side rendering (CSR) with respect to HTML?](#)
+1. [How does the Document Object Model (DOM) relate to HTML?](#1-how-does-the-document-object-model-dom-relate-to-html)
+2. [Explain the concept of accessibility in HTML. How to ensure a webpage is accessible?](#2-explain-the-concept-of-accessibility-in-html-how-to-ensure-a-webpage-is-accessible)
+3. [How to optimize HTML for SEO (Search Engine Optimization)?](#3-how-to-optimize-html-for-seo-search-engine-optimization)
+4. [What is the purpose of the `<template>` tag, and how can it be used?](#4-what-is-the-purpose-of-the-template-tag-and-how-can-it-be-used)
+5. [Explain the difference between server-side rendering (SSR) and client-side rendering (CSR) with respect to HTML?](#5-explain-the-difference-between-server-side-rendering-ssr-and-client-side-rendering-csr-with-respect-to-html)
 
 ---
 
