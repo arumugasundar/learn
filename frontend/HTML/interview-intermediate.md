@@ -7,11 +7,11 @@
 3. [How can you embed audio and video in an HTML document?](#3-how-can-you-embed-audio-and-video-in-an-html-document)
 4. [Explain the difference between id, name and class attributes in HTML?](#4-difference-between-id-name-and-class-attributes-in-html)
 5. [What are data attributes, and how can they be used in HTML?](#5-what-are-data-attributes-and-how-can-they-be-used-in-html)
-6. [How do you create a table with headers and rows?](#)
-7. [How do you use the `<video>` element to embed a video?](#)
-8. [How do you create a drop-down list in a form?](#)
-9. [How can you include a favicon in an HTML document?](#)
-10. [How do you use the `<progress>` element to show progress?](#)
+6. [How do you create a table with headers and rows?](#6-how-do-you-create-a-table-with-headers-and-rows)
+7. [How do you use the `<video>` element to embed a video?](#7-how-do-you-use-the-video-element-to-embed-a-video)
+8. [How do you create a drop-down list in a form?](#8-how-do-you-create-a-drop-down-list-in-a-form)
+9. [How can you include a favicon in an HTML document?](#9-how-can-you-include-a-favicon-in-an-html-document)
+10. [How do you use the `<progress>` element to show progress?](#10-how-do-you-use-the-progress-element-to-show-progress)
 
 ---
 

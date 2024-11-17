@@ -7,11 +7,11 @@
 3. [How to optimize HTML for SEO (Search Engine Optimization)?](#3-how-to-optimize-html-for-seo-search-engine-optimization)
 4. [What is the purpose of the `<template>` tag, and how can it be used?](#4-what-is-the-purpose-of-the-template-tag-and-how-can-it-be-used)
 5. [Explain the difference between server-side rendering (SSR) and client-side rendering (CSR) with respect to HTML?](#5-explain-the-difference-between-server-side-rendering-ssr-and-client-side-rendering-csr-with-respect-to-html)
-6. [How do you create a responsive image using HTML?](#)
-7. [How do you structure a webpage using semantic HTML?](#)
-8. [How do you create a modal popup using HTML?](#)
-9. [How do you use the `<details>` and `<summary>` elements?](#)
-10. [How do you create a custom data attribute and use it in JavaScript?](#)
+6. [How do you create a responsive image using HTML?](#6-how-do-you-create-a-responsive-image-using-html)
+7. [How do you structure a webpage using semantic HTML?](#7-how-do-you-structure-a-webpage-using-semantic-html)
+8. [How do you create a modal popup using HTML?](#8-how-do-you-create-a-modal-popup-using-html)
+9. [How do you use the `<details>` and `<summary>` elements?](#9-how-do-you-use-the-details-and-summary-elements)
+10. [How do you create a custom data attribute and use it in JavaScript?](#10-how-do-you-create-a-custom-data-attribute-and-use-it-in-javascript)
 
 ---
 

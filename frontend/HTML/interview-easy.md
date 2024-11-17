@@ -7,11 +7,11 @@
 3. [What is the purpose of the `<alt>` attribute in the `<img>` tag?](#3-what-is-the-purpose-of-the-alt-attribute-in-the-img-tag)
 4. [How do you include a comment in HTML?](#4-how-do-you-include-a-comment-in-html)
 5. [What are Non-Semantic & Semantic tags in HTML?](#5-what-are-non-semantic--semantic-tags-in-html)
-6. [How do you create an ordered and unordered list in HTML?](#)
-7. [How can you display an image in HTML?](#)
-8. [How do you create a form with text input and a submit button?](#)
-9. [How do you make text bold or italic in HTML?](#)
-10. [How do you create a hyperlink that opens in a new tab?](#)
+6. [How do you create an ordered and unordered list in HTML?](#6-how-do-you-create-an-ordered-and-unordered-list-in-html)
+7. [How can you display an image in HTML?](#7-how-can-you-display-an-image-in-html)
+8. [How do you create a form with text input and a submit button?](#8-how-do-you-create-a-form-with-text-input-and-a-submit-button)
+9. [How do you make text bold or italic in HTML?](#9-how-do-you-make-text-bold-or-italic-in-html)
+10. [How do you create a hyperlink that opens in a new tab?](#10-how-do-you-create-a-hyperlink-that-opens-in-a-new-tab)
 
 ---
 
