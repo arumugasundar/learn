@@ -2,22 +2,22 @@
 # Interview - Easy
 
 ### Questions
-1. [How do you change the text color of an element?](#)
-2. [How do you set a background color for a webpage?](#)
-3. [How do you make text bold using CSS?](#)
-4. [How do you center-align text in CSS?](#)
-5. [How do you set a border around an element?](#)
-6. [How do you set padding and margin for an element?](#)
-7. [How do you make an image circular using CSS?](#)
-8. [How do you use the z-index property to layer elements?](#)
-9. [How do you apply a shadow to an element?](#)
-10. [How do you create a transition effect on hover?](#)
+1. [How do you change the text color of an element?](#1-how-do-you-change-the-text-color-of-an-element)
+2. [How do you set a background color for a webpage?](#2-how-do-you-set-a-background-color-for-a-webpage)
+3. [How do you make text bold using CSS?](#3-how-do-you-make-text-bold-using-css)
+4. [How do you center-align text in CSS?](#4-how-do-you-center-align-text-in-css)
+5. [How do you set a border around an element?](#5-how-do-you-set-a-border-around-an-element)
+6. [How do you set padding and margin for an element?](#6-how-do-you-set-padding-and-margin-for-an-element)
+7. [How do you make an image circular using CSS?](#7-how-do-you-make-an-image-circular-using-css)
+8. [How do you use the z-index property to layer elements?](#8-how-do-you-use-the-z-index-property-to-layer-elements)
+9. [How do you apply a shadow to an element?](#9-how-do-you-apply-a-shadow-to-an-element)
+10. [How do you create a transition effect on hover?](#10-how-do-you-create-a-transition-effect-on-hover)
 
 ---
 
 ### Answers
 
-#### 1.How do you change the text color of an element?
+#### 1. How do you change the text color of an element?
 ```code
 p { color: red; }
 ```
