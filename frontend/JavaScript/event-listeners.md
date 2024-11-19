@@ -4,6 +4,14 @@
 Allows the system to respond to various user interactions and events that occur in the browser, such as clicking a button, resizing the window, or typing in an input field.
 
 ## Types of Event Listeners
+1. [Mouse Events](#1-mouse-events)
+2. [Keyboard Events](#2-keyboard-events)
+3. [Form Events](#3-form-events)
+4. [Window Events](#4-window-events)
+5. [Clipboard Events](#5-clipboard-events)
+6. [Drag and Drop Events](#6-drag-and-drop-events)
+7. [Media Events](#7-media-events)
+8. [Touch Events](#8-touch-events-for-mobile-devices)
 
 ### 1. Mouse Events
 - These are triggered by mouse actions
