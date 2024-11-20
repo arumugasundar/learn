@@ -2,17 +2,17 @@
 # Interview - Easy
 
 ### Questions
-1. [How to declare a variable in JavaScript?](#)
-2. [How to write a function in JavaScript?](#)
-3. [How to add an event listener to a button?](#)
-4. [What is the difference between == and === in JavaScript?](#)
-5. [How to select an element by its ID in JavaScript?](#)
-6. [How to check if an array includes a specific value in JavaScript?](#)
-7. [How to convert a string to an integer in JavaScript?](#)
-8. [How to iterate over an array in JavaScript?](#)
-9. [How to create a template string in JavaScript?](#)
-10. [Why var is not showing any errors while redeclaration but let does?](#)
-11. [How to split only the decimal part of a string format floating number?](#)
+1. [How to declare a variable in JavaScript?](#1-how-to-declare-a-variable-in-javascript)
+2. [How to write a function in JavaScript?](#2-how-to-write-a-function-in-javascript)
+3. [How to add an event listener to a button?](#3-how-to-add-an-event-listener-to-a-button)
+4. [What is the difference between == and === in JavaScript?](#4-what-is-the-difference-between--and--in-javascript)
+5. [How to select an element by its ID in JavaScript?](#5-how-to-select-an-element-by-its-id-in-javascript)
+6. [How to check if an array includes a specific value in JavaScript?](#6-how-to-check-if-an-array-includes-a-specific-value-in-javascript)
+7. [How to convert a string to an integer in JavaScript?](#7-how-to-convert-a-string-to-an-integer-in-javascript)
+8. [How to iterate over an array in JavaScript?](#8-how-to-iterate-over-an-array-in-javascript)
+9. [How to create a template string in JavaScript?](#9-how-to-create-a-template-string-in-javascript)
+10. [Why var is not showing any errors while redeclaration but let does?](#10-why-var-is-not-showing-any-errors-while-redeclaration-but-let-does)
+11. [How to split only the decimal part of a string format floating number?](#11-how-to-split-only-the-decimal-part-of-a-string-format-floating-number)
 
 #### 1. How to declare a variable in JavaScript?
 
