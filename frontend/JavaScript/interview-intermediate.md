@@ -2,16 +2,16 @@
 # Interview - Intermediate
 
 ### Questions
-1. [How to use the `map()` function on an array?](#)
-2. [How to create a promise in JavaScript?](#)
-3. [Realtime example for a promise in JavaScript?](#)
-4. [How does the `this` keyword work in JavaScript?](#)
-5. [What are arrow functions, and how are they different from regular functions?](#)
-6. [How to perform destructuring of an object in JavaScript?](#)
-7. [How to use the `reduce()` function on an array?](#)
-8. [How to set a timeout to delay execution in JavaScript?](#)
-9. [How to use the rest and spread operators in JavaScript?](#)
-10. [Explain hoisting in JavaScript?](#)
+1. [How to use the `map()` function on an array?](#1-how-to-use-the-map-function-on-an-array)
+2. [How to create a promise in JavaScript?](#2-how-to-create-a-promise-in-javascript)
+3. [Realtime example for a promise in JavaScript?](#3-realtime-example-for-a-promise-in-javascript)
+4. [How does the `this` keyword work in JavaScript?](#4-how-does-the-this-keyword-work-in-javascript)
+5. [What are arrow functions, and how are they different from regular functions?](#5-what-are-arrow-functions-and-how-are-they-different-from-regular-functions)
+6. [How to perform destructuring of an object in JavaScript?](#6-how-to-perform-destructuring-of-an-object-in-javascript)
+7. [How to use the `reduce()` function on an array?](#7-how-to-use-the-reduce-function-on-an-array)
+8. [How to set a timeout to delay execution in JavaScript?](#8-how-to-set-a-timeout-to-delay-execution-in-javascript)
+9. [How to use the rest and spread operators in JavaScript?](#9-how-to-use-the-rest-and-spread-operators-in-javascript)
+10. [Explain hoisting in JavaScript?](#10-explain-hoisting-in-javascript)
 
 #### 1. How to use the `map()` function on an array?
 - `map()` function in JavaScript is used to transform elements of an array and create a new array
@@ -850,4 +850,4 @@ fetchUserData()
         let x = 10;
         console.log(x); // Output: 10
         ```
-        
+

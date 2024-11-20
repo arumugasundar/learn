@@ -47,11 +47,11 @@ function mainFunction(callback) {
 
 ### Examples
 
-1. [Basic Example](#)
-2. [Asynchronous Example](#)
-3. [Event Handling](#)
-4. [Array Methods](#)
-5. [Custom Callback Function](#)
+1. [Basic Example](#1-basic-example)
+2. [Asynchronous Example](#2-asynchronous-example)
+3. [Event Handling](#3-event-handling)
+4. [Array Methods](#4-array-methods)
+5. [Custom Callback Function](#5-custom-callback-function)
 
 #### 1. Basic Example
 
