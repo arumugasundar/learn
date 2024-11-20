@@ -2,13 +2,13 @@
 # Interview - Hard
 
 ### Questions
-1. [How to debounce a function in JavaScript?](#)
-2. [What are closures, and how are they used in JavaScript?](#)
+1. [How to debounce a function in JavaScript?](#1-how-do-you-debounce-a-function-in-javascript)
+2. [What are closures, and how are they used in JavaScript?](#2-what-are-closures-and-how-are-they-used-in-javascript)
 3. [How to use the async/await syntax to handle asynchronous operations?](#)
 4. [What is the purpose of modules in JavaScript, and how to export/import them?](#)
-5. [How to implement a deep clone of an object in JavaScript?](#)
+5. [How to implement a deep clone of an object in JavaScript?](#5-how-to-implement-a-deep-clone-of-an-object-in-javascript)
 6. [How to implement a custom iterator in JavaScript?](#)
-7. [What is the event loop, and how does it work in JavaScript?](#)
+7. [What is the event loop, and how does it work in JavaScript?](#7-what-is-the-event-loop-and-how-does-it-work-in-javascript)
 8. [How to use Object.defineProperty() to define a property?](#)
 9. [What is the purpose of the Reflect API in JavaScript?](#)
 10. [How to create a proxy object in JavaScript?](#)
@@ -35,7 +35,7 @@
     - **clearTimeout(timeout)** - Clears any existing timeout to reset the debounce delay
     - **setTimeout** - Schedules the function execution after the specified delay
     - **apply(context, args)** - Ensures the function is executed in the correct context (this) with the provided arguments
-    
+
 - **Example** - debounce can be used in a search function to reduce API calls while a user types in a search box
 
     ```code
