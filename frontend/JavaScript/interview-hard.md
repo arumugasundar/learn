@@ -35,6 +35,7 @@
     - **clearTimeout(timeout)** - Clears any existing timeout to reset the debounce delay
     - **setTimeout** - Schedules the function execution after the specified delay
     - **apply(context, args)** - Ensures the function is executed in the correct context (this) with the provided arguments
+    
 - **Example** - debounce can be used in a search function to reduce API calls while a user types in a search box
 
     ```code
