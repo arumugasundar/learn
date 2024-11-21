@@ -2,16 +2,16 @@
 # Interview - Hard
 
 ### Questions
-1. [](#)
-2. [](#)
-3. [](#)
-4. [](#)
-5. [](#)
-6. [](#)
-7. [](#)
-8. [](#)
-9. [](#)
-10. [](#)
+1. [What are the key differences between ConcurrentHashMap and SynchronizedMap?](#)
+2. [Explain Java’s memory model (JMM). How does it impact multi-threading?](#)
+3. [What is a class loader in Java, and how does it work?](#)
+4. [How does the Garbage Collector (GC) work in Java? What are its algorithms?](#)
+5. [What are PhantomReference, WeakReference, and SoftReference in Java?](#)
+6. [What is the ForkJoinPool framework, and how does it work?](#)
+7. [What is deadlock, and how do you avoid it in Java?](#)
+8. [Explain how to implement a custom class loader in Java.](#)
+9. [How do you optimize performance in Java applications?](#)
+10. [What are Java’s key concurrency utilities in the java.util.concurrent package?](#)
 
 #### 1. What are the key differences between ConcurrentHashMap and SynchronizedMap?
 - **ConcurrentHashMap**
