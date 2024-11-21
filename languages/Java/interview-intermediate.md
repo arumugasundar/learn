@@ -2,16 +2,16 @@
 # Interview - Intermediate
 
 ### Questions
-1. [What is the difference between HashMap and Hashtable?](#)
-2. [What are transient and volatile keywords?](#)
-3. [How does Java handle memory management?](#)
-4. [What is the difference between Comparable and Comparator?](#)
-5. [Explain the purpose of synchronized in Java.](#)
-6. [What are Java annotations, and why are they used?](#)
-7. [What is the difference between Exception and Error?](#)
-8. [What is the Java Reflection API?](#)
-9. [What is the difference between ExecutorService and Thread?](#)
-10. [What is the difference between String.intern() and a regular String?](#)
+1. [What is the difference between HashMap and Hashtable?](#1-what-is-the-difference-between-hashmap-and-hashtable)
+2. [What are transient and volatile keywords?](#2-what-are-transient-and-volatile-keywords)
+3. [How does Java handle memory management?](#3-how-does-java-handle-memory-management)
+4. [What is the difference between Comparable and Comparator?](#4-what-is-the-difference-between-comparable-and-comparator)
+5. [Explain the purpose of synchronized in Java.](#5-explain-the-purpose-of-synchronized-in-java)
+6. [What are Java annotations, and why are they used?](#6-what-are-java-annotations-and-why-are-they-used)
+7. [What is the difference between Exception and Error?](#7-what-is-the-difference-between-exception-and-error)
+8. [What is the Java Reflection API?](#8-what-is-the-java-reflection-api)
+9. [What is the difference between ExecutorService and Thread?](#9-what-is-the-difference-between-executorservice-and-thread)
+10. [What is the difference between String.intern() and a regular String?](#10-what-is-the-difference-between-stringintern-and-a-regular-string)
 
 #### 1. What is the difference between HashMap and Hashtable?
 - **HashMap**
