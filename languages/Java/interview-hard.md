@@ -2,16 +2,16 @@
 # Interview - Hard
 
 ### Questions
-1. [What are the key differences between ConcurrentHashMap and SynchronizedMap?](#)
-2. [Explain Java’s memory model (JMM). How does it impact multi-threading?](#)
-3. [What is a class loader in Java, and how does it work?](#)
-4. [How does the Garbage Collector (GC) work in Java? What are its algorithms?](#)
-5. [What are PhantomReference, WeakReference, and SoftReference in Java?](#)
-6. [What is the ForkJoinPool framework, and how does it work?](#)
-7. [What is deadlock, and how do you avoid it in Java?](#)
-8. [Explain how to implement a custom class loader in Java.](#)
-9. [How do you optimize performance in Java applications?](#)
-10. [What are Java’s key concurrency utilities in the java.util.concurrent package?](#)
+1. [What are the key differences between ConcurrentHashMap and SynchronizedMap?](#1-what-are-the-key-differences-between-concurrenthashmap-and-synchronizedmap)
+2. [Explain Java’s memory model (JMM). How does it impact multi-threading?](#2-explain-javas-memory-model-jmm-how-does-it-impact-multi-threading)
+3. [What is a class loader in Java, and how does it work?](#3-what-is-a-class-loader-in-java-and-how-does-it-work)
+4. [How does the Garbage Collector (GC) work in Java? What are its algorithms?](#4-how-does-the-garbage-collector-gc-work-in-java-what-are-its-algorithms)
+5. [What are PhantomReference, WeakReference, and SoftReference in Java?](#5-what-are-phantomreference-weakreference-and-softreference-in-java)
+6. [What is the ForkJoinPool framework, and how does it work?](#6-what-is-the-forkjoinpool-framework-and-how-does-it-work)
+7. [What is deadlock, and how do you avoid it in Java?](#7-what-is-deadlock-and-how-do-you-avoid-it-in-java)
+8. [Explain how to implement a custom class loader in Java.](#8-explain-how-to-implement-a-custom-class-loader-in-java)
+9. [How do you optimize performance in Java applications?](#9-how-do-you-optimize-performance-in-java-applications)
+10. [What are Java’s key concurrency utilities in the java.util.concurrent package?](#10-what-are-javas-key-concurrency-utilities-in-the-javautilconcurrent-package)
 
 #### 1. What are the key differences between ConcurrentHashMap and SynchronizedMap?
 - **ConcurrentHashMap**
