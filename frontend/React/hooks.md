@@ -1,0 +1,1 @@
+notes : https://chatgpt.com/share/673ec19d-0ad8-8010-a926-2e4b94e5f31a
