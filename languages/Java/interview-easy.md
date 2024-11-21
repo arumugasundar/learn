@@ -1,16 +1,16 @@
 
 # Interview - Easy
 ### Questions
-1. [What are the main features of Java?](#)
-2. [What is the difference between JDK, JRE, and JVM?](#)
-3. [What is the difference between == and .equals()?](#)
-4. [What are Java access modifiers?](#)
-5. [What is the difference between ArrayList and LinkedList?](#)
-6. [What is the purpose of the final keyword in Java?](#)
-7. [What is a static keyword?](#)
-8. [What is the difference between String, StringBuilder, and StringBuffer?](#)
-9. [What are checked and unchecked exceptions?](#)
-10. [What is the difference between abstract class and interface?](#)
+1. [What are the main features of Java?](#1-what-are-the-main-features-of-java)
+2. [What is the difference between JDK, JRE, and JVM?](#2-what-is-the-difference-between-jdk-jre-and-jvm)
+3. [What is the difference between == and .equals()?](#3-what-is-the-difference-between--and-equals)
+4. [What are Java access modifiers?](#4-what-are-java-access-modifiers)
+5. [What is the difference between ArrayList and LinkedList?](#5-what-is-the-difference-between-arraylist-and-linkedlist)
+6. [What is the purpose of the final keyword in Java?](#6-what-is-the-purpose-of-the-final-keyword-in-java)
+7. [What is a static keyword?](#7-what-is-a-static-keyword)
+8. [What is the difference between String, StringBuilder, and StringBuffer?](#8-what-is-the-difference-between-string-stringbuilder-and-stringbuffer)
+9. [What are checked and unchecked exceptions?](#9-what-are-checked-and-unchecked-exceptions)
+10. [What is the difference between abstract class and interface?](#10-what-is-the-difference-between-abstract-class-and-interface)
 
 #### 1. What are the main features of Java?
 - Object-oriented
